@@ -3,6 +3,7 @@
 Repository vs. branch
 - repository: project folder
 - branch: separate working version of that project
+
 https://medium.com/%40aneme1/git-and-github-a-beginner-friendly-guide-to-version-control-and-collaboration-7b7ac501f313
 
 commit, push, vs, pull
